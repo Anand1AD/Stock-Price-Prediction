@@ -1,4 +1,4 @@
-# Stock-Price-Prediction Model
+# Stock-Price-Prediction-Model
 
 **Stock price prediction using linear regression**
 
